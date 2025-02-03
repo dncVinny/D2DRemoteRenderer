@@ -1,0 +1,7 @@
+﻿  IPC.cpp
+C:\Users\dncvi\OneDrive\Documents\RemoteRenderer_CLIENT\RemoteRenderer\IPC.cpp(82,9): warning C4244: 'argument': conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+  Overlay.cpp
+  RemoteRenderer.cpp
+  Vector.cpp
+  Generating Code...
+  RemoteRenderer.vcxproj -> C:\Users\dncvi\OneDrive\Documents\RemoteRenderer_CLIENT\x64\Debug\RemoteRenderer.exe

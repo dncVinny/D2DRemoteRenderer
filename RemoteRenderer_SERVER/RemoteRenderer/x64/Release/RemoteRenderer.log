@@ -1,0 +1,15 @@
+﻿  IPC.cpp
+C:\Users\John\source\repos\RemoteRenderer\RemoteRenderer\IPC.cpp(82,9): warning C4244: 'argument': conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+  Main.cpp
+C:\Users\John\source\repos\RemoteRenderer\RemoteRenderer\Main.cpp(357,1): warning C4102: 'exit_code': unreferenced label
+  Overlay.cpp
+C:\Users\John\source\repos\RemoteRenderer\RemoteRenderer\Overlay.cpp(127,24): warning C4838: conversion from 'float' to 'UINT32' requires a narrowing conversion
+C:\Users\John\source\repos\RemoteRenderer\RemoteRenderer\Overlay.cpp(127,24): warning C4244: 'initializing': conversion from 'float' to 'UINT32', possible loss of data
+C:\Users\John\source\repos\RemoteRenderer\RemoteRenderer\Overlay.cpp(127,47): warning C4838: conversion from 'float' to 'UINT32' requires a narrowing conversion
+C:\Users\John\source\repos\RemoteRenderer\RemoteRenderer\Overlay.cpp(127,47): warning C4244: 'initializing': conversion from 'float' to 'UINT32', possible loss of data
+  Vector.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 514 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RemoteRenderer.vcxproj -> C:\Users\John\source\repos\RemoteRenderer\x64\Release\RemoteRenderer.dll

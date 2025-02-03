@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\crapp\source\repos\RemoteRenderer\RemoteRenderer\Main.cpp(358,1): warning C4102: 'exit_code': unreferenced label
+  Overlay.cpp
+C:\Users\crapp\source\repos\RemoteRenderer\RemoteRenderer\Overlay.cpp(127,24): warning C4838: conversion from 'float' to 'UINT32' requires a narrowing conversion
+C:\Users\crapp\source\repos\RemoteRenderer\RemoteRenderer\Overlay.cpp(127,24): warning C4244: 'initializing': conversion from 'float' to 'UINT32', possible loss of data
+C:\Users\crapp\source\repos\RemoteRenderer\RemoteRenderer\Overlay.cpp(127,47): warning C4838: conversion from 'float' to 'UINT32' requires a narrowing conversion
+C:\Users\crapp\source\repos\RemoteRenderer\RemoteRenderer\Overlay.cpp(127,47): warning C4244: 'initializing': conversion from 'float' to 'UINT32', possible loss of data
+  Generating Code...
+  RemoteRenderer.vcxproj -> C:\Users\crapp\source\repos\RemoteRenderer\x64\Debug\RemoteRenderer.dll
